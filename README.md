@@ -1,6 +1,6 @@
 # 90s J-Pop Acoustic Profile Project
 
-Why does 90s J-Pop sometimes sound disappointing on high-end audio systems?
+## Why does 90s J-Pop sometimes sound disappointing on high-end audio systems?
 
 Many listeners who grew up with 1990s Japanese pop and rock remember these albums sounding energetic and vocal-forward. However, when played today on highly revealing DACs, amplifiers, and speakers, the same albums can sound surprisingly distant or restrained.
 
