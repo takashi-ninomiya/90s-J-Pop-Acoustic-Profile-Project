@@ -1,4 +1,4 @@
-# 90s-J-Pop-Acoustic-Profile-Project
+# 90s J-Pop Acoustic Profile Project
 
 Why does 90s J-Pop sometimes sound disappointing on high-end audio systems?
 
