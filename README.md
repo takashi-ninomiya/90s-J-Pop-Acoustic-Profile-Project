@@ -13,3 +13,16 @@ This profile is not intended to be objectively correct. It is a listening profil
 2. Download the latest version of 90s-JPOP-Acoustic-Profile-v**.feq.
 3. In foobar2000->Settings->DSP Manager, add Equalizer.
 4. In Equalizer, load the 90s-JPOP-Acoustic-Profile-v**.feq.
+
+### Tested environment
+Source:
+foobar2000
+
+DAC:
+TEAC UD-501
+
+Amplifier:
+Accuphase E-530
+
+Speaker:
+B&W Signature 805
