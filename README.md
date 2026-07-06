@@ -21,7 +21,10 @@ Instead, it aims to recreate the listening experience that many people remember 
 ### Verified Albums
 - hide: Ja, Zoo
 - hide: PSYENCE
+- Judy and Mary: Miracle Diving
 - Judy and Mary: The Power Source
+- Judy and Mary: Pop Life
+- Judy and Mary: Warp
 - B'z: The Best Treasure
 
 ### Tested environment
